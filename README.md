@@ -1,1 +1,1 @@
-# DIP_CourseCodes
+# Codes for Digital Image Processing Course
